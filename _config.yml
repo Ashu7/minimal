@@ -1,6 +1,13 @@
-title: Minimal theme
+title: <p align="center">Ashutosh Dutondkar</p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: 
+<br>
+Software Engineer by profession.
+Enthusiastic personality with good logical, programming skills. 
+Well-versed with software development life cycle. Keen about learning new skills and computer languages. 
+I believe my strengths are that I am a Pedon who can work under a lot of stress.
+Technologies: Python, NumPy, Pandas, Git & GitHub, REST API, Odoo ERP v16.
+</br>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
