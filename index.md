@@ -1,6 +1,6 @@
 # Data Science Portfolio
 ---
-## Machine Learning
+## Exploratory Data Analysis
 
 ### Loan Defaulter Analysis (EDA)
 
